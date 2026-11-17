@@ -1,0 +1,23 @@
+{
+  "pc": {
+    "version": "1.2",
+    "file": "(Windows) Merchant Macro v1.2 (WEATHER DETECTION).zip",
+    "sha256": "13a508d46e1f2a98d18d88fa40af7cb8a82afe4a0edb1f71de1a9b4a79b8c2cb",
+    "size": 316477
+  },
+  "mac": {
+    "version": "1.2",
+    "file": "(Mac) Merchant Macro v1.2 (WEATHER DETECTION).zip",
+    "sha256": "c8e0cc434a652957b9cfc0666f04b41055fac6079affeb6d6bd1560d9bd613c7",
+    "size": 328198
+  },
+  "android": {
+    "version": "1.2",
+    "code": 15,
+    "accessibility": {
+      "file": "(Android) Merchant Macro v1.2 (WEATHER DETECTION).apk",
+      "sha256": "bc78f21fbe274f3dadf5a16911a1f07a24b2899a4d2736f0f76573a0d4cbdd07",
+      "size": 1066859
+    }
+  }
+}
