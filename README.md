@@ -11,3 +11,5 @@ also if you still dont understand something after watching the guide just read t
 also for the pc version you have to extract it for it to work properly
 
 the "update.json" file is there so macros can prompt you to update them once a new version is released, you do NOT have to download it
+
+if you have any trouble with the macro, EVERYTHING is written inside the macro tabs so please just read 🙏
